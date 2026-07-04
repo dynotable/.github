@@ -2,8 +2,8 @@
 
 <a href="https://dynotable.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://assets.dynotable.app/posters/hero/en-US.dark.jpg">
-    <img alt="DynoTable — a DynamoDB GUI with a real SQL Workbench, showing a GROUP BY query and aggregated results" src="https://assets.dynotable.app/posters/hero/en-US.jpg" width="840">
+    <source media="(prefers-color-scheme: dark)" srcset="https://assets.dynotable.app/docs/en-US/overview-window.dark.png">
+    <img alt="The DynoTable window — sidebar of tabs, a DynamoDB orders table open in a live data grid with key-condition filters, and the active AWS profile pinned at the bottom" src="https://assets.dynotable.app/docs/en-US/overview-window.png" width="840">
   </picture>
 </a>
 
