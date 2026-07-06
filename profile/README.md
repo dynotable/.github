@@ -15,7 +15,7 @@ Browse, query, and model your own **DynamoDB** tables — with **JOINs, GROUP BY
 
 **[Watch the demo](https://dynotable.com)** &nbsp;·&nbsp; [Download](https://dynotable.com/download) &nbsp;·&nbsp; [Pricing](https://dynotable.com/pricing) &nbsp;·&nbsp; [Docs](https://dynotable.com/docs)
 
-`macOS` &nbsp;·&nbsp; `Windows` &nbsp;·&nbsp; `Linux` &nbsp;—&nbsp; free 30-day trial, no credit card
+`macOS` &nbsp;·&nbsp; `Windows` &nbsp;·&nbsp; `Linux` &nbsp;—&nbsp; free 30-day trial, money-back guarantee
 
 </div>
 
