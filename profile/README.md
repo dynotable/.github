@@ -27,7 +27,8 @@ A desktop DynamoDB client built for people who think in queries, not scans.
 
 - **Real SQL Workbench** — run actual JOINs, GROUP BY and aggregates over your tables. It works *within* DynamoDB's access-pattern rules, so you get the SQL ergonomics without pretending DynamoDB is Postgres. Things PartiQL can't do.
 - **AI agent on your own AWS** — an assistant that runs against your own AWS Bedrock. Your keys, your account, your models.
-- **MCP server for your coding agent** — connect Claude Code or Codex to your own tables, with per-connection consent and a scope you choose. The read-only tools work on the free plan.
+- **MCP server for your coding agent** — connect Claude Code or Codex to your own tables, with per-connection consent and a scope you choose.
+- **Keyboard-first navigation** — a global search palette, a profile switcher, a tabbed workspace and full grid navigation, all without reaching for the mouse.
 - **Local-first** — your data and AWS credentials never leave your machine. Cloud-based clients route them through their servers; DynoTable doesn't.
 - **Fast to first query** — point DynoTable at an AWS profile and run your first query in under a minute.
 
@@ -52,6 +53,6 @@ A free curriculum and product manual — modeling, access patterns, PartiQL vs S
 
 **[Get DynoTable](https://dynotable.com/download)**
 
-Free 30-day trial, no credit card · then a free read-only plan with no time limit · editing and the AI agent are per-seat.
+Free 30-day trial, no credit card · then a free read-only plan with no time limit (browse, PartiQL, export, MCP schema reads) · the SQL Workbench, Smart Tables, editing and the AI agent are per-seat.
 
 </div>
