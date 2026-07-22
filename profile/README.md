@@ -15,7 +15,7 @@ Browse, query, and model your own **DynamoDB** tables — with **JOINs, GROUP BY
 
 **[Watch the demo](https://dynotable.com)** &nbsp;·&nbsp; [Download](https://dynotable.com/download) &nbsp;·&nbsp; [Pricing](https://dynotable.com/pricing) &nbsp;·&nbsp; [Docs](https://dynotable.com/docs)
 
-`macOS` &nbsp;·&nbsp; `Windows` &nbsp;·&nbsp; `Linux` &nbsp;—&nbsp; free 30-day trial, money-back guarantee
+`macOS` &nbsp;·&nbsp; `Windows` &nbsp;·&nbsp; `Linux` &nbsp;—&nbsp; free 30-day trial, no credit card, then free forever as a read-only client
 
 </div>
 
@@ -27,6 +27,7 @@ A desktop DynamoDB client built for people who think in queries, not scans.
 
 - **Real SQL Workbench** — run actual JOINs, GROUP BY and aggregates over your tables. It works *within* DynamoDB's access-pattern rules, so you get the SQL ergonomics without pretending DynamoDB is Postgres. Things PartiQL can't do.
 - **AI agent on your own AWS** — an assistant that runs against your own AWS Bedrock. Your keys, your account, your models.
+- **MCP server for your coding agent** — connect Claude Code or Codex to your own tables, with per-connection consent and a scope you choose. The read-only tools work on the free plan.
 - **Local-first** — your data and AWS credentials never leave your machine. Cloud-based clients route them through their servers; DynoTable doesn't.
 - **Fast to first query** — point DynoTable at an AWS profile and run your first query in under a minute.
 
@@ -51,6 +52,6 @@ A free curriculum and product manual — modeling, access patterns, PartiQL vs S
 
 **[Get DynoTable](https://dynotable.com/download)**
 
-Free 30-day trial · then per-seat, billed monthly or annually.
+Free 30-day trial, no credit card · then a free read-only plan with no time limit · editing and the AI agent are per-seat.
 
 </div>
