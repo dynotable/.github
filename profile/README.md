@@ -29,7 +29,7 @@ A desktop DynamoDB client built for people who think in queries, not scans.
 - **AI agent on your own AWS** — an assistant that runs against your own AWS Bedrock. Your keys, your account, your models.
 - **MCP server for your coding agent** — connect Claude Code or Codex to your own tables, with per-connection consent and a scope you choose.
 - **Keyboard-first navigation** — a global search palette, a profile switcher, a tabbed workspace and full grid navigation, all without reaching for the mouse.
-- **Local-first** — your data and AWS credentials never leave your machine. Cloud-based clients route them through their servers; DynoTable doesn't.
+- **Local-first** — your table data and AWS credentials never touch a DynoTable server, where cloud-based clients route them through theirs. Reads and writes go straight to your own AWS account.
 - **Fast to first query** — point DynoTable at an AWS profile and run your first query in under a minute.
 
 ## Free web tools — no sign-up
@@ -40,6 +40,10 @@ Open-access DynamoDB utilities on [dynotable.com](https://dynotable.com):
 - [DynamoDB Item Size Calculator](https://dynotable.com/tools/dynamodb-item-size-calculator)
 - [DynamoDB JSON Converter](https://dynotable.com/tools/dynamodb-json-converter)
 - [DynamoDB Expression Builder](https://dynotable.com/tools/dynamodb-expression-builder)
+- [DynamoDB Query Builder](https://dynotable.com/tools/dynamodb-query-builder)
+- [DynamoDB Single-Table Design Tool](https://dynotable.com/tools/dynamodb-single-table-design)
+- [DynamoDB TTL Converter](https://dynotable.com/tools/dynamodb-ttl-converter)
+- [DynamoDB Reserved Words Checker](https://dynotable.com/tools/dynamodb-reserved-words-checker)
 
 ## Learn DynamoDB
 
@@ -53,6 +57,6 @@ A free curriculum and product manual — modeling, access patterns, PartiQL vs S
 
 **[Get DynoTable](https://dynotable.com/download)**
 
-Free 30-day trial, no credit card · then a free read-only plan with no time limit (browse, PartiQL, export, MCP schema reads) · the SQL Workbench, Smart Tables, editing and the AI agent are per-seat.
+Free 30-day trial of the plan you pick, no credit card · then a free plan with no time limit. Free includes browsing, PartiQL SELECT, data, code, and schema exports, and MCP schema/item reads; paid seats add the SQL Workbench, Smart Tables, writes, and AI.
 
 </div>
