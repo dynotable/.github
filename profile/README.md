@@ -9,13 +9,13 @@
 
 # DynoTable
 
-### The DynamoDB GUI with a real SQL Workbench
+### The DynamoDB and OpenSearch GUI with real SQL & your AI agent
 
-Browse, query, and model your own **DynamoDB** tables — with **JOINs, GROUP BY and aggregations** that run within DynamoDB's access-pattern rules.
+Browse, query, and model your own **DynamoDB** tables and **OpenSearch** indices — with **JOINs, GROUP BY and aggregations** that run within DynamoDB's access-pattern rules.
 
-**[Watch the demo](https://dynotable.com)** &nbsp;·&nbsp; [Download](https://dynotable.com/download) &nbsp;·&nbsp; [Pricing](https://dynotable.com/pricing) &nbsp;·&nbsp; [Docs](https://dynotable.com/docs)
+**[Watch the demo](https://dynotable.com)** &nbsp;·&nbsp; [Download](https://dynotable.com/download) &nbsp;·&nbsp; [Pricing](https://dynotable.com/pricing) &nbsp;·&nbsp; [Docs](https://dynotable.com/docs) &nbsp;·&nbsp; [Releases & issues](https://github.com/dynotable/dynotable)
 
-`macOS` &nbsp;·&nbsp; `Windows` &nbsp;·&nbsp; `Linux` &nbsp;—&nbsp; free 30-day trial, no credit card, then free forever as a read-only client
+`macOS (Apple Silicon)` &nbsp;·&nbsp; `Windows` &nbsp;·&nbsp; `Linux` &nbsp;—&nbsp; free 30-day trial, no credit card, then free forever as a read-only client
 
 </div>
 
@@ -23,14 +23,14 @@ Browse, query, and model your own **DynamoDB** tables — with **JOINs, GROUP BY
 
 ## Why DynoTable
 
-A desktop DynamoDB client built for people who think in queries, not scans.
+A desktop DynamoDB and OpenSearch client built for people who think in queries, not scans.
 
 - **Real SQL Workbench** — run actual JOINs, GROUP BY and aggregates over your tables. It works *within* DynamoDB's access-pattern rules, so you get the SQL ergonomics without pretending DynamoDB is Postgres. Things PartiQL can't do.
 - **AI agent on your own AWS** — an assistant that runs against your own AWS Bedrock. Your keys, your account, your models.
 - **MCP server for your coding agent** — connect Claude Code or Codex to your own tables, with per-connection consent and a scope you choose.
+- **OpenSearch beside DynamoDB** — Amazon OpenSearch Service domains and Serverless collections open as tabs, with search, staged edits, and SQL JOINs across both engines.
 - **Keyboard-first navigation** — a global search palette, a profile switcher, a tabbed workspace and full grid navigation, all without reaching for the mouse.
-- **Local-first** — your table data and AWS credentials never touch a DynoTable server, where cloud-based clients route them through theirs. Reads and writes go straight to your own AWS account.
-- **Fast to first query** — point DynoTable at an AWS profile and run your first query in under a minute.
+- **Local-first** — your table data and AWS credentials never touch a DynoTable server. Reads and writes go straight to your own AWS account.
 
 ## Free web tools — no sign-up
 
@@ -44,6 +44,14 @@ Open-access DynamoDB utilities on [dynotable.com](https://dynotable.com):
 - [DynamoDB Single-Table Design Tool](https://dynotable.com/tools/dynamodb-single-table-design)
 - [DynamoDB TTL Converter](https://dynotable.com/tools/dynamodb-ttl-converter)
 - [DynamoDB Reserved Words Checker](https://dynotable.com/tools/dynamodb-reserved-words-checker)
+- [DynamoDB Terraform, CDK and CloudFormation Generator](https://dynotable.com/tools/dynamodb-infrastructure-code-generator)
+
+## Releases and issues
+
+The app is closed source. Its public repo, [dynotable/dynotable](https://github.com/dynotable/dynotable), holds the release notes and the issue tracker only:
+
+- [Releases](https://github.com/dynotable/dynotable/releases) &nbsp;·&nbsp; [Changelog](https://dynotable.com/changelog)
+- [Report a bug or request a feature](https://github.com/dynotable/dynotable/issues/new/choose) &nbsp;·&nbsp; [Discussions](https://github.com/dynotable/dynotable/discussions)
 
 ## Learn DynamoDB
 
