@@ -15,7 +15,7 @@ Browse, query, and model your own **DynamoDB** tables and **OpenSearch** indices
 
 **[Watch the demo](https://dynotable.com)** &nbsp;·&nbsp; [Download](https://dynotable.com/download) &nbsp;·&nbsp; [Pricing](https://dynotable.com/pricing) &nbsp;·&nbsp; [Docs](https://dynotable.com/docs) &nbsp;·&nbsp; [Releases & issues](https://github.com/dynotable/dynotable)
 
-`macOS (Apple Silicon)` &nbsp;·&nbsp; `Windows` &nbsp;·&nbsp; `Linux` &nbsp;—&nbsp; free 30-day trial, no credit card, then free forever as a read-only client
+`macOS (Apple Silicon & Intel)` &nbsp;·&nbsp; `Windows` &nbsp;·&nbsp; `Linux` &nbsp;—&nbsp; free 30-day trial, no credit card, then free forever as a read-only client
 
 </div>
 
