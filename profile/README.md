@@ -46,6 +46,16 @@ Open-access DynamoDB utilities on [dynotable.com](https://dynotable.com):
 - [DynamoDB Reserved Words Checker](https://dynotable.com/tools/dynamodb-reserved-words-checker)
 - [DynamoDB Terraform, CDK and CloudFormation Generator](https://dynotable.com/tools/dynamodb-infrastructure-code-generator)
 
+## dynotable-orm — open source
+
+[dynotable-orm](https://github.com/dynotable/dynamodb-orm) is an MIT-licensed, type-safe DynamoDB ORM for TypeScript and a dynamoose alternative:
+
+- **Models from Zod or any Standard Schema** — keys, updates, conditions and queries are typed from your schema.
+- **Works on dynamoose tables** — it reads and writes the items dynamoose stored.
+- **A codemod** moves dynamoose code over and marks what it cannot move with a TODO.
+
+`npm install dynotable-orm` &nbsp;·&nbsp; [Docs](https://dynotable.com/orm) &nbsp;·&nbsp; [Getting started](https://dynotable.com/orm/getting-started) &nbsp;·&nbsp; [Migrate from dynamoose](https://dynotable.com/orm/migrate-from-dynamoose) &nbsp;·&nbsp; [Benchmarks](https://dynotable.com/orm/benchmarks). Pre-release: the API may change before 1.0.
+
 ## Releases and issues
 
 The app is closed source. Its public repo, [dynotable/dynotable](https://github.com/dynotable/dynotable), holds the release notes and the issue tracker only:
